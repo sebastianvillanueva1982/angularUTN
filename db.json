@@ -4,7 +4,7 @@
   "nombre": "Frasadas",
   "descripcion": "Se requiren frasadas y mantas para personas en situación de calle.",
   "img": "assets/img/frasadas.jpg",
-  "destino": "Gente situación de calle",
+  "destino": "C.A.B.A.",
   "lugar": "Caritas Bs As",
   "direccion": "Peña 1234",
   "finaliza": "10/07/2019",
@@ -14,10 +14,10 @@
   "nombre": "Juguetes",
   "descripcion": "Se está realizando colecta para el día del niño",
   "img": "assets/img/juguetes.jpg",
-  "finaliza": "10/07/2019",
+  "finaliza": "15/08/2019",
   "lugar": "Colegio San Ignacio",
-  "direccion": "9 de Julio 111",
-  "destino": "Conurbano",
+  "direccion": "Santa Fe 2123",
+  "destino": "Hogar Los Jazmines",
   "id":"2"
 },
 {
@@ -52,12 +52,12 @@
 },
 {
   "nombre": "Botines",
-  "descripcion": "Se está realizando colecta para el día del niño",
+  "descripcion": "Se estan juntando botines para las divisiones inferiores del club Excursionistas de Bahia Blanca",
   "img": "assets/img/botines.jpg",
   "finaliza": "10/07/2019",
-  "lugar": "Colegio San Ignacio",
-  "direccion": "9 de Julio 111",
-  "destino": "CABA",
+  "lugar": "Sociedad de Fomento Excursio",
+  "direccion": "Verde 1234",
+  "destino": "Excursionistas FC",
   "id":"6"
 }
 ]

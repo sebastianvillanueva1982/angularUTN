@@ -2,17 +2,17 @@
   "posts": [
   {
   nombre: "Frasadas",
-  descripcion: "Se requiren frasadas y mantas para personas en situación de calle.",
+  descripcion: "Se requiren frasadas y mantas para personas en situacion de calle.",
   img: "assets/img/frasadas.jpg",
-  destino: "Gente situación de calle",
+  destino: "Gente situacion de calle",
   lugar: "Caritas Bs As",
-  direccion: "Peña 1234",
+  direccion: "Pena 1234",
   finaliza: "10/07/2019",
   id:"1"
 },
 {
   nombre: "Juguetes",
-  descripcion: "Se está realizando colecta para el día del niño",
+  descripcion: "Se esta realizando colecta para el dia del nino",
   img: "assets/img/juguetes.jpg",
   finaliza: "10/07/2019",
   lugar: "Colegio San Ignacio",
@@ -22,7 +22,7 @@
 },
 {
   nombre: "Utiles escolares",
-  descripcion: "Se está realizando colecta para el día del niño",
+  descripcion: "Se esta realizando colecta para el dia del nino",
   img: "assets/img/utiles.jpg",
   destino: "Escuela rural 82",
   finaliza: "10/07/2019",
@@ -32,7 +32,7 @@
 },
 {
   nombre: "Alimentos",
-  descripcion: "Se está realizando colecta para el día del niño",
+  descripcion: "Se esta realizando colecta para el dia del nino",
   img: "assets/img/alimentos.jpg",
   finaliza: "10/07/2019",
   lugar: "Comedor",
@@ -42,7 +42,7 @@
 },
 {
   nombre: "Ropa, muebles, etc.",
-  descripcion: "Colaborar con Juan Perez que sufrió un incendió de su hogar y perdió todo.",
+  descripcion: "Colaborar con Juan Perez que sufrio un incendio de su hogar y perdio todo.",
   img: "assets/img/ropa.jpg",
   finaliza: "22/12/2019",
   lugar: "Colegio San Ignacio",
@@ -52,7 +52,7 @@
 },
 {
   nombre: "Botines",
-  descripcion: "Se está realizando colecta para el día del niño",
+  descripcion: "Se esta realizando colecta para el dia del nino",
   img: "assets/img/botines.jpg",
   finaliza: "10/07/2019",
   lugar: "Colegio San Ignacio",

@@ -1,64 +1,14 @@
 {
   "posts": [
-  {
-  nombre: "Frasadas",
-  descripcion: "Se requiren frasadas y mantas para personas en situacion de calle.",
-  img: "assets/img/frasadas.jpg",
-  destino: "Gente situacion de calle",
-  lugar: "Caritas Bs As",
-  direccion: "Pena 1234",
-  finaliza: "10/07/2019",
-  id:"1"
-},
-{
-  nombre: "Juguetes",
-  descripcion: "Se esta realizando colecta para el dia del nino",
-  img: "assets/img/juguetes.jpg",
-  finaliza: "10/07/2019",
-  lugar: "Colegio San Ignacio",
-  direccion: "9 de Julio 111",
-  destino: "Conurbano",
-  id:"2"
-},
-{
-  nombre: "Utiles escolares",
-  descripcion: "Se esta realizando colecta para el dia del nino",
-  img: "assets/img/utiles.jpg",
-  destino: "Escuela rural 82",
-  finaliza: "10/07/2019",
-  lugar: "Colegio San Ignacio",
-  direccion: "9 de Julio 111",
-  id:"3"
-},
-{
-  nombre: "Alimentos",
-  descripcion: "Se esta realizando colecta para el dia del nino",
-  img: "assets/img/alimentos.jpg",
-  finaliza: "10/07/2019",
-  lugar: "Comedor",
-  direccion: "Alem 201",
-  destino: "Comedor Margarita",
-  id:"4"
-},
-{
-  nombre: "Ropa, muebles, etc.",
-  descripcion: "Colaborar con Juan Perez que sufrio un incendio de su hogar y perdio todo.",
-  img: "assets/img/ropa.jpg",
-  finaliza: "22/12/2019",
-  lugar: "Colegio San Ignacio",
-  direccion: "9 de Julio 111",
-  destino: "Juan Perez",
-  id:"5"
-},
-{
-  nombre: "Botines",
-  descripcion: "Se esta realizando colecta para el dia del nino",
-  img: "assets/img/botines.jpg",
-  finaliza: "10/07/2019",
-  lugar: "Colegio San Ignacio",
-  direccion: "9 de Julio 111",
-  destino: "CABA",
-  id:"6"
-}
-]
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

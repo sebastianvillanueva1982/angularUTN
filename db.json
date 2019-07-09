@@ -1,4 +1,5 @@
- [
+{
+  "posts": [
   {
   nombre: "Frasadas",
   descripcion: "Se requiren frasadas y mantas para personas en situación de calle.",
@@ -59,4 +60,7 @@
   destino: "CABA",
   id:"6"
 }
-]
+], 
+   "profile": {
+    "name": "typicode"
+  }
